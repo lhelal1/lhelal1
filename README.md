@@ -1,6 +1,17 @@
-# entropyWithMe!
+<br>
 
-<hr>
+<br> 
+
+<h1 align="center";>
+    entropyWithMe!
+</h1>
+
+
+<br>
+
+<br>
+
+<br>
 
 
 ```c
